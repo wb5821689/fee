@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs
+	xmlns="http://www.example.org/design-config"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/design-config ../../design.xsd ">
+
+	<module
+		messageKey="fs-base:module.fs.base"
+		urlPrefix="/fs/base/"
+		defaultValidator="roleValidator(role=ROLE_FSBASE_DEFAULT)">
+		<roles>
+			ROLE_FSBASE_DEFAULT
+		</roles>
+
+		<request
+			path="fs_base_invoice_pool/fsBaseInvoicePool*"
+			validatorParameter="recid=fdId,model=com.landray.kmss.fs.base.model.FsBaseInvoicePool">
+		</request>
+
+	</module>
+
+	<homePage
+		urlPrefix="fs/base"
+		config="/moduleindex_notopic.jsp?nav=/fs/base/tree.jsp"
+		url="/fs/base/index.jsp"
+		messageKey="fs-base:module.fs.base" />
+ 
+
+ 
+</configs>
