@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/client/WSContext.java=UTF-8
+encoding//src/com/kingdee/eas/fi/gl/app/WSWSRtnInfo.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/EASLogin/EASLoginProxy.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/EASLogin/EASLoginProxyService.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/EASLogin/EASLoginProxyServiceLocator.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/EASLogin/EASLoginSoapBindingStub.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/WSWSVoucher/WSWSVoucherSoapBindingStub.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/WSWSVoucher/WSWSVoucherSrvProxy.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/WSWSVoucher/WSWSVoucherSrvProxyService.java=UTF-8
+encoding//src/win_7forugvlu01/ormrpc/services/WSWSVoucher/WSWSVoucherSrvProxyServiceLocator.java=UTF-8
+encoding//src/wsvoucher/client/WSBean.java=UTF-8
+encoding//src/wsvoucher/client/WSInvokeException.java=UTF-8
+encoding//src/wsvoucher/client/WSWSVoucher.java=UTF-8
